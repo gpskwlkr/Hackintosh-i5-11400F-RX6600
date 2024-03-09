@@ -2,7 +2,7 @@
 
 **Note**: This is not a guide, check out [Dortania's](https://dortania.github.io/OpenCore-Install-Guide/) guide for specific needs.
 
-![Neofetch](/images/neofetch.jpeg)
+![Neofetch](/images/neofetch.jpg)
 
 ## Hardware
 
