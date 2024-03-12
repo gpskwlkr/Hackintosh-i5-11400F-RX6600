@@ -17,3 +17,7 @@
 ## BIOS
 
 Everything set up according to [Dortania's BIOS](https://dortania.github.io/OpenCore-Install-Guide/config-HEDT/haswell-e.html#intel-bios-settings) guide.
+
+## Serial number
+
+Make sure to swap out XXXXXXXXXXXXXXX in [config.plist](./OC/config.plist).
